@@ -2,6 +2,8 @@
 
 A Python-based tool to convert images into ASCII art with adjustable styles and parameters.
 
+![ss1.png](ss1.png)
+
 ## Features
 
 - Converts images to ASCII art.
